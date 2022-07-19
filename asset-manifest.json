@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.dfea50c8.js",
+    "main.css": "/static/css/main.9598fd2a.css",
+    "main.js": "/static/js/main.6321e1f0.js",
     "static/js/787.f289e19b.chunk.js": "/static/js/787.f289e19b.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/salonista.png": "/static/media/salonista.9a8551b0c659a4b69ab4.png",
+    "static/media/communityVoice.png": "/static/media/communityVoice.47fc3c1df8a369e4acff.png",
+    "static/media/cancerApp.png": "/static/media/cancerApp.ad5e3b7b6d227512fb03.png",
+    "static/media/andoRider.png": "/static/media/andoRider.faa36e591eaf9515ab9b.png",
+    "static/media/imin.jpg": "/static/media/imin.734311a033e885bbd898.jpg",
+    "static/media/accountManager.png": "/static/media/accountManager.abab88ca60ab7573cc1e.png",
+    "static/media/googleplay.webp": "/static/media/googleplay.614bb6d5ba974c4e3045.webp",
+    "static/media/appstore.svg": "/static/media/appstore.15f01eefb2013206cc7e26d98fbe95fb.svg",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.dfea50c8.js.map": "/static/js/main.dfea50c8.js.map",
+    "main.9598fd2a.css.map": "/static/css/main.9598fd2a.css.map",
+    "main.6321e1f0.js.map": "/static/js/main.6321e1f0.js.map",
     "787.f289e19b.chunk.js.map": "/static/js/787.f289e19b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.dfea50c8.js"
+    "static/css/main.9598fd2a.css",
+    "static/js/main.6321e1f0.js"
   ]
 }
